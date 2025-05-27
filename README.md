@@ -33,8 +33,7 @@
         <li>📛 Nombre</li>
         <li>🦁 Especie</li>
         <li>🎂 Edad</li>
-        <li>⚖️ Peso</li>
-        <li>🥩 Cantidad de solomillos comidos</li>
+        <li>⚖️ Peso</li> 
       </ul>
     </li>
     <li><strong>Ingresar una edad específica</strong> y mostrar el <strong>peso promedio</strong> de todos los animales que tengan esa edad.<br>
