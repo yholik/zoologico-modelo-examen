@@ -19,9 +19,7 @@
       <code>Pepe - Tigre - 5 años</code><br>
       <small>(Siendo: Pepe el nombre, tigre la especie y 5 años la edad)</small>
     </li>
-
     <li><strong>Registrar que un animal acaba de cumplir años.</strong></li>
-
     <li><strong>Alimentar un animal</strong> con uno de los siguientes alimentos:
       <ul>
         <li>🥬 <strong>Lechuga</strong> (Peso: -2Kg)</li>
@@ -30,7 +28,6 @@
       </ul>
       <em>Si el animal ya comió tres veces, no podrá comer otra vez hasta cumplir años.</em>
     </li>
-
     <li><strong>Mostrar la información completa de un animal</strong> específico ingresando su nombre:
       <ul>
         <li>📛 Nombre</li>
@@ -40,7 +37,6 @@
         <li>🥩 Cantidad de solomillos comidos</li>
       </ul>
     </li>
-
     <li><strong>Ingresar una edad específica</strong> y mostrar el <strong>peso promedio</strong> de todos los animales que tengan esa edad.<br>
       <small>El promedio se calcula dividiendo el total de pesos por la cantidad de animales de esa edad.</small>
     </li>
